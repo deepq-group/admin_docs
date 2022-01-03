@@ -12,5 +12,4 @@
     * [3. Authorization](deployment-management/4.1-create-deployment/3.-authorization.md)
     * [4. Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
 * [5. Notifications](5.-notifications.md)
-* [Page 1](page-1.md)
 * [6. Users & Admins                (Account Management)](account-management.md)
