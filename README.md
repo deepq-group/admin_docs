@@ -1,5 +1,7 @@
 # DeepQ AI Platform Admin User Manual
 
+This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.
+
 ### [0. DeepQ AI Platform Admin backstage overview](deepq-ai-platform-admin-backstage-overview.md)
 
 ### [1. Dashboard](./#1.-dashboard)
