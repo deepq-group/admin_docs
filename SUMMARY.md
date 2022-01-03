@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DeepQ AI Platform Admin User Manual](README.md)
+* [0.DeepQ AI Platform Admin User Manual](README.md)
 * [0. DeepQ AI Platform Admin Backstage Overview](deepq-ai-platform-admin-backstage-overview.md)
 * [1. Dashboard](resource-management.md)
 * [2. Models](2.-models/README.md)
