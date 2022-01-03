@@ -20,4 +20,4 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### 5. Notifications
 
-### 6. Account Management
+### 6. Account Management: Users & Admins
