@@ -2,7 +2,7 @@
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.
 
-### [1. DeepQ AI Platform Admin backstage overview](deepq-ai-platform-admin-backstage-overview.md)
+### 1. DeepQ AI Platform Admin backstage overview
 
 ### [2. Dashboard](./#1.-dashboard)
 
@@ -18,6 +18,6 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 ](deployment-management/4.1-create-deployment/2.-set-query.md)[         4.1.3 Authorization\
 ](deployment-management/4.1-create-deployment/3.-authorization.md)[         4.1.4 Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
 
-### [5. Notifications](./#4.-notifications)
+### 5. Notifications
 
-### [6. Account Management](./#5.-account-management)
+### 6. Account Management
