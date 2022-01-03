@@ -1,14 +1,23 @@
-# 5. Users & Admins                (Account Management)
+# 6. Account Management
 
 
 
 ![](<.gitbook/assets/image (8).png>)
+
+The administrator can perform the floowing tasks related to user accounts:
+
+* create new account
+* edit account permission--module authorization & expiry date
+* modify password
+* suspend/delete account
 
 
 
 ![](.gitbook/assets/image.png)
 
 ![](<.gitbook/assets/image (10).png>)
+
+
 
 
 
