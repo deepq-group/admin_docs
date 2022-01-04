@@ -1,4 +1,4 @@
-# 3. Deployment
+# 4. Deployment
 
 
 
@@ -12,7 +12,7 @@
 
 ![](<../.gitbook/assets/image (14).png>)
 
-
+The status of each inference job on the list is shown as "Waiting", "Running" and "Finished"
 
 
 
