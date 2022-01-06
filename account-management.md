@@ -1,33 +1,43 @@
 # 6. Account Management
 
+### Users
 
-
-![](<.gitbook/assets/image (8).png>)
-
-The administrator can perform the floowing tasks related to user accounts:
+The administrator can perform the following tasks related to user accounts:
 
 * create new account
 * edit account permission--module authorization & expiry date
-* modify password
+* reset password
 * suspend/delete account
 
+![user account list](<.gitbook/assets/image (8) (1).png>)
+
+![edit account permission/ set expiry date](.gitbook/assets/image.png)
+
+#### Add User
+
+Adding a new user requires the admin to set the following information：
+
+* Account login email
+* Password (later can be changed by the user)
+* Personal information
+* Product permission (of the three main modules)
+* Account expiry date
+
+![Add user pop-up window](<.gitbook/assets/image (2).png>)
+
+### Admins
+
+There can also be multiple administrators of the platform. Clicking on the "Admins" on the sidebar shows the list of administrators.
+
+![List of administrators](<.gitbook/assets/image (5).png>)
 
 
-![](.gitbook/assets/image.png)
 
-![](<.gitbook/assets/image (10).png>)
+Adding a new administrator requires the admin to set the following information：
 
+* Account login email
+* Password (later can be changed by the user)
+* Personal information
 
-
-
-
-
-
-![](<.gitbook/assets/image (2).png>)
-
-
-
-![](<.gitbook/assets/image (5).png>)
-
-
+![Add Admin pop-up window](<.gitbook/assets/image (8).png>)
 
