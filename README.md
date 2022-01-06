@@ -22,4 +22,10 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### [6. Account Management: Users & Admins](account-management.md)
 
-### 7.Legal Documents
+### [7.Legal Documents](7.-legal-documents.md)
+
+[Terms of Use\
+](7.-legal-documents.md#7.1-terms-of-use)[Privacy Policy\
+](7.-legal-documents.md#7.2-privacy-policy)[Product Security\
+](7.-legal-documents.md#7.3-product-security)[Code of Conduct\
+](7.-legal-documents.md#7.4-code-of-conduct)[Third Party Notice](7.-legal-documents.md#7.5-third-party-notice)
