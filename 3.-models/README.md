@@ -4,7 +4,7 @@ Here the admin can view the list of all deployable models stored on the DeepQ AI
 
 
 
-![Deployable model list of DeepQ AI platform](<../.gitbook/assets/image (1) (1).png>)
+![Deployable model list of DeepQ AI platform](../.gitbook/assets/adm-3-0.png)
 
 
 

@@ -11,6 +11,6 @@ To create a deployment, the administrator will have to go through the following 
 
 &#x20;
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](../../.gitbook/assets/adm-4-1-1.png)
 
 If there is available inference GPU, the administrator will go though a 4-step proccess to complete a model deployment.

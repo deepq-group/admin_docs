@@ -9,9 +9,9 @@ The administrator can perform the following tasks related to user accounts:
 * reset password
 * suspend/delete account
 
-![user account list](<.gitbook/assets/image (8) (1).png>)
+![user account list](.gitbook/assets/adm-6-1.png)
 
-![edit account permission/ set expiry date](.gitbook/assets/image.png)
+![edit account permission/ set expiry date](.gitbook/assets/adm-6-2.png)
 
 #### Add User
 
@@ -23,13 +23,13 @@ Adding a new user requires the admin to set the following informationï¼š
 * Product permission (of the three main modules)
 * Account expiry date
 
-![Add user pop-up window](<.gitbook/assets/image (2).png>)
+![Add user pop-up window](.gitbook/assets/adm-6-3.png)
 
 ### Admins
 
 There can also be multiple administrators of the platform. Clicking on the "Admins" on the sidebar shows the list of administrators.
 
-![List of administrators](<.gitbook/assets/image (5).png>)
+![List of administrators](.gitbook/assets/adm-6-4.png)
 
 
 
@@ -39,5 +39,5 @@ Adding a new administrator requires the admin to set the following informationï¼
 * Password (later can be changed by the user)
 * Personal information
 
-![Add Admin pop-up window](<.gitbook/assets/image (8).png>)
+![Add Admin pop-up window](.gitbook/assets/adm-6-5.png)
 
