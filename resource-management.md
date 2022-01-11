@@ -8,5 +8,6 @@ The first thing showing when you log into DeepQ AI Platform backstage is the das
 
 ![At the bottom of the dashboard shows the status of inference GPU and deployments](.gitbook/assets/adm-2-3.png)
 
-| At the bottom of the dashboard shows the status of inference GPU and deployments |
+|                         ![](.gitbook/assets/adm-2-3.png)                         |
 | :------------------------------------------------------------------------------: |
+| At the bottom of the dashboard shows the status of inference GPU and deployments |
