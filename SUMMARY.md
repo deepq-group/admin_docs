@@ -15,5 +15,5 @@
 * [6. Account Management](account-management.md)
 * [7. FAQ](7.-faq/README.md)
   * [7.1](7.-faq/7.1.md)
-  * [7.2 Changelog](7.-faq/7.2-changelog.md)
+  * [7.2 Change Log](7.-faq/7.2-change-log.md)
 * [8. Legal Documents](legal-documents.md)
