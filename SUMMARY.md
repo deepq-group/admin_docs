@@ -13,4 +13,7 @@
     * [4. Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
 * [5. Notifications](5.-notifications.md)
 * [6. Account Management](account-management.md)
-* [7. Legal Documents](legal-documents.md)
+* [7. FAQ](7.-faq/README.md)
+  * [7.1](7.-faq/7.1.md)
+  * [7.2 Changelog](7.-faq/7.2-changelog.md)
+* [8. Legal Documents](legal-documents.md)
