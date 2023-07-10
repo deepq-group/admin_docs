@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/background_1.jpg
+coverY: 0
+---
+
 # 1. DeepQ AI Platform Admin Backstage Overview
 
 The DeepQ AI Platform backstage is where the administrator can perform the following tasks:

@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/background_1.jpg
+coverY: 0
+---
+
 # 0.DeepQ AI Platform Admin User Manual
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.

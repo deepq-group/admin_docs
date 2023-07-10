@@ -11,6 +11,8 @@
     * [2. Set Query](deployment-management/4.1-create-deployment/2.-set-query.md)
     * [3. Authorization](deployment-management/4.1-create-deployment/3.-authorization.md)
     * [4. Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
+  * [4.2 View/Manage Deployments](deployment-management/4.2-view-manage-deployments/README.md)
+    * [4.2.1 Deployment Statistics](deployment-management/4.2-view-manage-deployments/4.2.1-deployment-statistics.md)
 * [5. Notifications](5.-notifications.md)
 * [6. Account Management](account-management.md)
 * [7. FAQ](7.-faq/README.md)
