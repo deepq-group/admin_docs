@@ -1,7 +1,7 @@
 # Table of contents
 
 * [0.DeepQ AI Platform Admin User Manual](README.md)
-* [1. DeepQ AI Platform Admin Backstage Overview](deepq-ai-platform-admin-backstage-overview.md)
+* [1. Deeploy Admin Backstage Overview](deepq-ai-platform-admin-backstage-overview.md)
 * [2. Dashboard](resource-management.md)
 * [3. Models](3.-models/README.md)
   * [3.1 Import models](3.-models/3.1-import-models.md)
