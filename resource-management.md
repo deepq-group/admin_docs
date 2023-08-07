@@ -4,6 +4,4 @@ The first thing showing when you log into DeepQ AI Platform backstage is the das
 
 ![](.gitbook/assets/Deeploy-adm-2-0-1.png)
 
-![The administrator can view the GPU usage during a given time interval](.gitbook/assets/adm-2-2.png)
-
-![At the bottom of the dashboard shows the status of inference GPU and deployments](.gitbook/assets/adm-2-3.png)
+<figure><img src=".gitbook/assets/Deeploy-adm-2-0-2.png" alt=""><figcaption></figcaption></figure>
