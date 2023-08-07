@@ -7,31 +7,32 @@ coverY: 0
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.
 
-### [1. DeepQ AI Platform Admin backstage overview](deepq-ai-platform-admin-backstage-overview.md)
+### 1. Deeploy Admin backstage overview
 
 ### [2. Dashboard](resource-management.md)
 
 ### [3. Models](3.-models)
 
-[3.1 Import Models](broken-reference)
-
 ### [4. Deployment](deployment-management/)
 
 #### [4.1 Create Deployment](deployment-management/4.1-create-deployment)
 
-[4.1.1 Select Model](deployment-management/4.1-create-deployment/1.-select-model.md)
+1. Select Model
+2. Set Query rules & worklist items
+3. Set AI Indicator(s)
+4. Authorization
+5. Deployment&#x20;
 
-[4.1.2 Set Query Rules](deployment-management/4.1-create-deployment/2.-set-query.md)
+4.2 View/Manage Deployment
 
-[4.1.3 Authorization](deployment-management/4.1-create-deployment/3.-authorization.md)
-
-[4.1.4 Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
+4.2.1 Deployment Statistics
 
 ### [5. Notifications](5.-notifications.md)
 
-### [6. Account Management: Users & Admins](account-management.md)
+### 6. Account Management
 
-### [7.Legal Documents](legal-documents.md)
+7. FAQ
+8. Legal Documents
 
 [Terms of Use](legal-documents.md#7.1-terms-of-use)
 
