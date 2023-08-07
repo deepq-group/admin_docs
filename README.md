@@ -3,7 +3,7 @@ cover: .gitbook/assets/background_1.jpg
 coverY: 0
 ---
 
-# 0.DeepQ AI Platform Admin User Manual
+# 0.Deeploy Admin User Manual
 
 This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.
 
@@ -13,7 +13,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### [3. Models](3.-models)
 
-[3.1 Import Models](3.-models/3.1-import-models.md)
+[3.1 Import Models](broken-reference)
 
 ### [4. Deployment](deployment-management/)
 

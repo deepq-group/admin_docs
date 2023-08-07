@@ -9,8 +9,6 @@ To create a deployment, the administrator will have to go through the following 
 
 \*\*the maximum number of deployments is limited by the number of inference GPUs. if all inference GPUs are occupied, selecting "**DEPLOY MODEL**" will jump out a warning window, informing the administrator to stop a running deployment in order to release a GPU.
 
-&#x20;
-
-![](../../.gitbook/assets/adm-4-1-1.png)
+![](../../.gitbook/assets/Deeploy-adm-2-0-2.png)
 
 If there is available inference GPU, the administrator will go though a 4-step proccess to complete a model deployment.

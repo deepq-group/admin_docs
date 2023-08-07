@@ -4,7 +4,7 @@ Each running model service is defined as a "Deployment" in DeepQ AI Platform. Th
 
 ### Deployment overview
 
-![Here is the Deployment list, showing all deployments and their status, users can edit/stop or delete deployments](../.gitbook/assets/adm-4-0-0.png)
+![Here is the Deployment list, showing all deployments and their status, users can edit/stop or delete deployments](../.gitbook/assets/Deeploy-adm-4-0-1.png)
 
 ### Deployment detail
 
@@ -18,11 +18,4 @@ The status of each inference job on the list is shown as either "Waiting", "Runn
 
 The admin can download the complete inference history of this deployment by clicking "![](../.gitbook/assets/adm-icon-1.png)" at the upper right of the inference list.
 
-![In the deployment detial page are the model detials, query set(s) information and the inference list below](../.gitbook/assets/adm-4-0-1.png)
-
-
-
 ![At the bottom of the deployment detail is the list of authorized users](../.gitbook/assets/adm-4-0-2.png)
-
-
-
