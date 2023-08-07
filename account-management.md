@@ -11,8 +11,6 @@ The administrator can perform the following tasks related to user accounts:
 
 ![user account list](.gitbook/assets/adm-6-1.png)
 
-![edit account permission/ set expiry date](.gitbook/assets/adm-6-2.png)
-
 #### Add User
 
 Adding a new user requires the admin to set the following information：
@@ -23,7 +21,7 @@ Adding a new user requires the admin to set the following information：
 * Product permission (of the three main modules)
 * Account expiry date
 
-![Add user pop-up window](.gitbook/assets/adm-6-3.png)
+![Add user pop-up window](.gitbook/assets/Deeploy-adm-6-0-2.png)
 
 ### Admins
 
@@ -31,13 +29,10 @@ There can also be multiple administrators of the platform. Clicking on the "Admi
 
 ![List of administrators](.gitbook/assets/adm-6-4.png)
 
-
-
 Adding a new administrator requires the admin to set the following information：
 
 * Account login email
 * Password (later can be changed by the user)
 * Personal information
 
-![Add Admin pop-up window](.gitbook/assets/adm-6-5.png)
-
+![Add Admin pop-up window](.gitbook/assets/Deeploy-adm-6-0-3.png)
