@@ -3,9 +3,9 @@ cover: .gitbook/assets/background_1.jpg
 coverY: 0
 ---
 
-# 0.Deeploy Admin User Manual
+# 0.Deeploy Admin User Guide
 
-This is a quick start or getting started guide to introduce how to use DeepQ AI Platform as an administrator.
+This is a quick start or getting started guide to introduce how to use DeepQ AI Platform--Deeply module as an administrator.
 
 ### 1. Deeploy Admin backstage overview
 
