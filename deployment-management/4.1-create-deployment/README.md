@@ -1,6 +1,6 @@
 # 4.1 Create deployment
 
-To create a deployment, the administrator will have to go through 1 5-step process:
+To create a deployment, the administrator will have to go through a 5-step process:
 
 1. Select model to be deployed
 2. Set query settings
