@@ -9,4 +9,4 @@ A. Although our service works with all major browsers, we suggest users to run D
 A. Please contact your system admin or DeepQ customer service to reset your password
 
 **Q. The screen becomes unresponsive/freezes, what should I do?**\
-A. You may try to refresh or even restart the browser if necessary.
+A. You may try to refresh or even restart the browser if necessary. If nothing happend, please check your network connectivity/the status of the Deeploy system.
