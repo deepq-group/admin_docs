@@ -2,9 +2,9 @@
 
 ### Deployment Overview
 
-After setup, the name and description of each deployment can be modifed at the deployment list, click on the ![](../../.gitbook/assets/adm-icon-1.png) to edit deployment detail and stop/delete deployments.
+After creation, the name and description of each deployment can be modifed at the deployment list, click on the ![](../../.gitbook/assets/adm-icon-1.png) to edit deployment detail and stop/delete deployments.
 
-\*\* Deleting a deployment will remove all related data including image data & inference history, while the data & image of a stopped deployment can still be accessed.
+\*\* **Deleting** a deployment will remove all related data including image data & inference history, while the data & image of a **stopped** deployment can still be accessed.
 
 <figure><img src="../../.gitbook/assets/Deeploy-adm-4-2-1.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
-# 4. Deployment
+# 4. Deployments
 
-Each running model service is defined as a "Deployment" in Deeploy. There can be multiple deployments running simultaneously depending on the number of models and inference resource (GPUs & CPU).
+Each running model service is defined as a "Deployment". There can be multiple deployments running simultaneously depending on the number of models and inference resource (GPUs & CPU).
 
 ### Deployment list
 
