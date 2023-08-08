@@ -4,7 +4,7 @@
 * [1. Deeploy Admin Backstage Overview](deepq-ai-platform-admin-backstage-overview.md)
 * [2. Dashboard](resource-management.md)
 * [3. Models](3.-models.md)
-* [4. Deployment](deployment-management/README.md)
+* [4. Deployments](deployment-management/README.md)
   * [4.1 Create deployment](deployment-management/4.1-create-deployment/README.md)
     * [1. Select Model](deployment-management/4.1-create-deployment/1.-select-model.md)
     * [2. Set Query rule(s)](deployment-management/4.1-create-deployment/2.-set-query.md)

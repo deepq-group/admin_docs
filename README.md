@@ -11,30 +11,30 @@ This is a quick start or getting started guide to introduce how to use DeepQ AI 
 
 ### [2. Dashboard](resource-management.md)
 
-### [3. Models](3.-models)
+### [3. Models](3.-models.md)
 
-### [4. Deployment](deployment-management/)
+### [4. Deployments](deployment-management/)
 
 #### [4.1 Create Deployment](deployment-management/4.1-create-deployment/)
 
 #### [4.2 View/Manage Deployment](deployment-management/4.2-view-manage-deployments/)
 
-### [5. Notifications](5.-notifications.md)
+### [5. Announcement](5.-notifications.md)
 
-### 6. Account Management
+### [6. Account Management](account-management.md)
 
-7. FAQ
+### [7. FAQ](7-faq/)
 
-7.2 Change Log
+[7.2 Change Log](7-faq/7.2-change-log/)
 
-7. Legal Documents
+### [8.Legal Documents](legal-documents.md)
 
-[Terms of Use](legal-documents.md#7.1-terms-of-use)
+Terms of Use
 
-[Privacy Policy](legal-documents.md#7.2-privacy-policy)
+Privacy Policy
 
-[Product Security](legal-documents.md#7.3-product-security)
+Product Security
 
-[Code of Conduct](legal-documents.md#7.4-code-of-conduct)
+Code of Conduct
 
-[Third Party Notice](legal-documents.md#7.5-third-party-notice)
+Third Party Notice
