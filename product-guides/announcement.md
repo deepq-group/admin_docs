@@ -6,7 +6,7 @@ The administrator can send system/email announcements to all/select users of the
 
 <figure><img src="../.gitbook/assets/Announcement_Example.png" alt=""><figcaption></figcaption></figure>
 
-#### Create New Announcement
+### Create New Announcement
 
 * **Announcement Message:** The administrator can edit the content here, the max. number of characters is 250.
 * **Date:** Each system announcement can be given an end date, the announcement will automatically be taken down once the end date is reached. if no end date is selected, users can still disable the announcement banner themselves.

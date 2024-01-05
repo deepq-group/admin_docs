@@ -1,6 +1,6 @@
 # ⚙ View & Manage Tasks
 
-## View Tasks
+### View Tasks
 
 Training tasks created by users are listed here, you may also sort them by the following status: &#x20;
 
@@ -20,7 +20,7 @@ Please contact DeepQ if your task is waiting too long / shows error
 
 
 
-## Manage Tasks
+### Manage Tasks
 
 &#x20;there are two operations the administrator can do here:&#x20;
 
