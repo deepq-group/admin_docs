@@ -15,6 +15,5 @@
 
 ## Misc
 
-* [⁉ troubleshooting and faqs](misc/troubleshooting-and-faqs.md)
 * [📔 changelogs](misc/changelogs.md)
 * [📖 legal documents](misc/legal-documents.md)

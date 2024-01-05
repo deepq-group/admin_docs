@@ -1,2 +1,0 @@
-# ⁉ troubleshooting and faqs
-
