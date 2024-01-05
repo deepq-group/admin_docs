@@ -2,7 +2,7 @@
 
 
 
-The first thing showing when you log into DeepQ AI Platform backstage is the dashboard. this is where the administrator can view the training GPU usage of each user and the inference GPU.
+The first thing showing when you log into DeepQ AI Platform Admin Console is the dashboard. this is where the administrator can view the total training GPU-hour usage, total storage usage and GPU-hour usage of each user.
 
 
 
