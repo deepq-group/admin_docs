@@ -18,5 +18,9 @@
 
 
 
+{% hint style="info" %}
+To purchase more resources (GPU-hrs, storage space or user accounts), please contact DeepQ Sales Personnel or via feedback form.
+{% endhint %}
+
 
 

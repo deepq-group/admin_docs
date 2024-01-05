@@ -10,6 +10,11 @@
 
 ## Manage Tasks
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas two operations:&#x20;
+
+
+
+* Stop task
+* Set as 1st in line
 
 ![](../.gitbook/assets/Task\_Management.png)
