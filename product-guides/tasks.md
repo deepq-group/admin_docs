@@ -8,13 +8,21 @@
 
 
 
+{% hint style="warning" %}
+Please contact DeepQ if your task is waiting too long
+{% endhint %}
+
+
+
 ## Manage Tasks
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas two operations:&#x20;
+&#x20;there are two operations the administrator can do here:&#x20;
 
+* **Stop task**: Stop a running task. Once the task is fully stopped, the 1st task that is waiting in line (if there is any) will proceed to start. Be aware that stopped tasks cannot be resumed.
+* **Set as 1st in line:** Move the waiting order of any given task to the 1st in line.
 
-
-* Stop task
-* Set as 1st in line
+{% hint style="warning" %}
+Please make sure that owner of the tasks were fully aware of the changes you will make (stop task & change waiting order)
+{% endhint %}
 
 ![](../.gitbook/assets/Task\_Management.png)
