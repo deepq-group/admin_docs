@@ -1,14 +1,10 @@
 # Admin Accounts
 
-###
-
-![Add user pop-up window](broken-reference)
-
 ### Admins
 
 There can also be multiple administrators of the platform. Clicking on the "Admins" on the sidebar shows the list of administrators.
 
-![List of administrators](broken-reference)
+![List of administrators](../../.gitbook/assets/Admin\_List.png)
 
 Adding a new administrator requires the admin to set the following informationï¼š
 
@@ -16,4 +12,4 @@ Adding a new administrator requires the admin to set the following informationï¼
 * Password (later can be changed by the user)
 * Personal information
 
-![Add Admin pop-up window](broken-reference)
+![Add Admin pop-up window](../../.gitbook/assets/Add\_New\_Admin.png)

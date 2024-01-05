@@ -9,9 +9,9 @@ The administrator can perform the following tasks related to user accounts:
 * reset password
 * suspend/delete account
 
-![user account list](broken-reference)
+![user account list](../../.gitbook/assets/User\_List.png)
 
-![edit account permission/ set expiry date](broken-reference)
+![edit account permission/ set expiry date](../../.gitbook/assets/Manage\_User.png)
 
 #### Add User
 
@@ -22,3 +22,5 @@ Adding a new user requires the admin to set the following information：
 * Personal information
 * Product permission (of the three main modules)
 * Account expiry date
+
+<figure><img src="../../.gitbook/assets/Add_New_User.png" alt=""><figcaption></figcaption></figure>
