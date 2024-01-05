@@ -1,10 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to DeepQ AI Platform](README.md)
-
 ## Overview
 
-* [💡 Admin Console](overview/admin-console.md)
+* [💡 Admin Console](README.md)
 
 ## Use Cases
 
