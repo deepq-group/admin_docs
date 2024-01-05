@@ -6,13 +6,13 @@ There can also be multiple administrators of the platform. Clicking on the "Admi
 
 ![List of administrators](../../.gitbook/assets/Admin\_List.png)
 
-#### Manage Admin
+### Manage Admin account
 
 
 
-* Edit Permission (Two-Factor Authentication)
+* Edit Permission (Two-Factor Authentication on/off)
 * Reset Password
-* Suspend
+* Suspend (can be unsuspended)
 * Delete
 
 <figure><img src="../../.gitbook/assets/Manage_Admin.png" alt=""><figcaption></figcaption></figure>
@@ -23,13 +23,13 @@ There can also be multiple administrators of the platform. Clicking on the "Admi
 
 
 
-#### Add New Admin
+### Add New Admin
 
 Adding a new administrator requires the admin to set the following information：
 
 * Account login email
-* Password (later can be changed by the admin)
+* Password (can be changed later)
 * Display Name
-* Two-Factor Authentication
+* Two-Factor Authentication on/off
 
 ![Add Admin pop-up window](../../.gitbook/assets/Add\_New\_Admin.png)
