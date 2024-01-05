@@ -8,12 +8,12 @@
 
 ## Use Cases
 
-* [🔢 Resource Check](use-cases/resource-check.md)
+* [🔢 Resource Check](product-guides/dashboard.md)
 * [🧑🤝🧑 Create & Manage Accounts](use-cases/create-and-manage-accounts/README.md)
   * [Admin Accounts](use-cases/create-and-manage-accounts/admin-accounts.md)
   * [User Accounts](use-cases/create-and-manage-accounts/user-accounts.md)
-* [⚙ View & Manage Tasks](use-cases/view-and-manage-tasks.md)
-* [📣 Create Announcements](use-cases/create-announcements.md)
+* [⚙ View & Manage Tasks](product-guides/tasks.md)
+* [📣 Create Announcements](product-guides/announcement.md)
 
 ## Misc
 

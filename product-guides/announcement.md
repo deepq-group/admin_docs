@@ -1,4 +1,4 @@
-# 📣 Announcement
+# 📣 Create Announcements
 
 ## How Projects work
 

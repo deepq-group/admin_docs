@@ -11,16 +11,35 @@ The administrator can perform the following tasks related to user accounts:
 
 ![user account list](../../.gitbook/assets/User\_List.png)
 
-![edit account permission/ set expiry date](../../.gitbook/assets/Manage\_User.png)
+#### Manage User Account
 
-#### Add User
+The administrator can perform the following tasks related to user accounts:
+
+* create new account
+* edit account permission--module authorization & expiry date
+* reset password
+* suspend/delete account
+
+
+
+<figure><img src="../../.gitbook/assets/Manage_User.png" alt=""><figcaption></figcaption></figure>
+
+####
+
+#### Add New User
 
 Adding a new user requires the admin to set the following information：
 
 * Account login email
 * Password (later can be changed by the user)
-* Personal information
-* Product permission (of the three main modules)
-* Account expiry date
+* Display Name
+* Product permission
+* Two-Factor Authentication
+
+
+
+![edit account permission/ set expiry date](../../.gitbook/assets/Manage\_User.png)
+
+
 
 <figure><img src="../../.gitbook/assets/Add_New_User.png" alt=""><figcaption></figcaption></figure>
