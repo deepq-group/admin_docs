@@ -1,9 +1,18 @@
 # 8. Legal Documents
 
-### [Terms of Use](https://storage.googleapis.com/aip3-dev-aip-assets/legal-files/AI-Platform-On-Prem-Terms-of-Use.pdf)
+### Terms of Use
 
-### [Privacy Policy](https://storage.googleapis.com/aip3-dev-aip-assets/legal-files/AI-Platform-On-Prem-Privacy-Policy.pdf)
+{% file src=".gitbook/assets/AI-Platform-On-Prem-Terms-of-Use.pdf" %}
 
-### [Product Security](https://storage.googleapis.com/aip3-dev-aip-assets/legal-files/AI-Platform-Product-Security.pdf)
+### Privacy Policy
 
-### [Third Party Notice](https://storage.googleapis.com/aip3-dev-aip-assets/legal-files/AI-Platform-Third-Party-Notice.txt)
+{% file src=".gitbook/assets/AI-Platform-On-Prem-Privacy-Policy.pdf" %}
+
+### Product Security
+
+{% file src=".gitbook/assets/AI-Platform-Product-Security.pdf" %}
+
+### Third Party Notice
+
+{% file src=".gitbook/assets/AI-Platform-Third-Party-Notice.txt" %}
+
