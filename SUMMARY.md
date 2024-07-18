@@ -9,7 +9,7 @@
     * [1. Select Model](deployment-management/4.1-create-deployment/1.-select-model.md)
     * [2. Set Query rule(s)](deployment-management/4.1-create-deployment/2.-set-query.md)
     * [3. Set Worklist items & AI Indicator(s)](deployment-management/4.1-create-deployment/3.-set-worklist-items-and-ai-indicator-s.md)
-    * [4. Set AI viewer items](deployment-management/4.1-create-deployment/3.-set-worklist-items-and-ai-indicator-s-1.md)
+    * [4. Set AI viewer](deployment-management/4.1-create-deployment/3.-set-worklist-items-and-ai-indicator-s-1.md)
     * [5. Authorization](deployment-management/4.1-create-deployment/3.-authorization.md)
     * [6. Deployment](deployment-management/4.1-create-deployment/4.-deployment.md)
   * [4.2 View/Manage Deployments](deployment-management/4.2-view-manage-deployments/README.md)
