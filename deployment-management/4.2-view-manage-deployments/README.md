@@ -10,8 +10,8 @@ After creation, the name and description of each deployment can be modifed at th
 
 ### Deployment Details
 
-Selecting a deployment will show the deployment details, including all deployment settings, inference list, deployment statistics and the option to download the complete inference history.
+Selecting a deployment will show the deployment details, including all deployment settings, inference list, deployment statistics and the option to download the inference history and user logs (within a duration selected ay Deploy statistics, 60-day max.)
 
-<figure><img src="../../.gitbook/assets/Deeploy-adm-4-2-1.png" alt=""><figcaption><p>At the top of the deployment detail page is the inference list, with the same layout and information as the user console's AI worklist. you can also download the complete inference history for further use. (csv format)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Deeploy-adm-4-2-1.png" alt=""><figcaption><p>At the top of the deployment detail page is the inference list, with the same layout and information as the user console's AI worklist. you can also download the inference history of user log for further use. (csv format in a password protected ZIP-file)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Deeploy-adm-4-2-0-2.png" alt=""><figcaption><p>To check the full deployment information, simply click on the information button on the upper right.</p></figcaption></figure>
